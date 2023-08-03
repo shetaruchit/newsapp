@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Heinz Schenk",
+            "title": "Ka-ching! Career-changing payday for local players after SA20: 'Bonus bigger than salaries'",
+            "description": "The inaugural edition of the tournament will reward franchises with a total of R70 million in prize money in what is comfortably the most lucrative payday in domestic cricket's history.",
+            "url": "https://www.news24.com/sport/cricket/sa20/ka-ching-career-changing-payday-for-local-players-after-sa20-bonus-bigger-than-salaries-20230213",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/1921/1876aad02dd74749b20c1eae8c91a9a6.jpg",
+            "publishedAt": "2023-02-13T12:59:23+00:00",
+            "content": "\"That's a very good question,\" Wayne Parnell chuckled after he was asked what Pretoria Capitals are going to do with their runners-up cheque of R17.5 million. But between the laughs he still made the… [+2171 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Ex-England captain Morgan retires from cricket",
+            "description": "Former England World Cup-winning captain Eoin Morgan announces his retirement from all forms of cricket.",
+            "url": "http://www.bbc.co.uk/sport/cricket/64622431",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2023-02-13T09:22:24.8701425Z",
+            "content": "Former England captain Eoin Morgan has announced his retirement from all forms of cricket.\r\nThe 36-year-old, who was born in Dublin, stepped down from the international game last June.\r\nUnder Morgan'… [+226 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
